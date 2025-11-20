@@ -779,18 +779,18 @@ Authorization: Bearer {token}
 
 ```bash
 # MySQL数据库配置
-MYSQL_HOST=10.8.6.14          # MySQL服务器地址
+MYSQL_HOST=127.0.0.1          # MySQL服务器地址
 MYSQL_PORT=13306              # MySQL端口
 MYSQL_USER=root               # 数据库用户名
 MYSQL_PASSWORD=SFBhdweREaKTm6XX  # 数据库密码
 MYSQL_DATABASE=code_review_db # 数据库名
 
 # Milvus向量数据库配置
-MILVUS_HOST=10.8.6.14        # Milvus服务器地址
+MILVUS_HOST=127.0.0.1         # Milvus服务器地址
 MILVUS_PORT=19530            # Milvus服务端口
 
 # Ollama配置
-OLLAMA_HOST=192.168.7.102    # Ollama服务器地址
+OLLAMA_HOST=127.0.0.1     # Ollama服务器地址
 OLLAMA_PORT=11434           # Ollama端口
 OLLAMA_EMBEDDING_MODEL=bge-m3:567m  # Embedding模型
 OLLAMA_LLM_MODEL=gemma3:4b   # LLM模型
@@ -967,3 +967,4 @@ MIT License
 
 **最后更新**: 2024年  
 **版本**: v1.0.0
+
